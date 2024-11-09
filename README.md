@@ -13,7 +13,7 @@ This is a **no-build-step** Vue3 project template, ideal for quickly setting up 
 
 ## Feature
 
-- [x] No build step required, no dependency on Node.js
-- [x] Support SFC File
-- [x] Integrated vue-router
-- [x] Integrated vue-i18n
+- [x] No node.js environment, no build step.
+- [x] Support SFC File.
+- [x] Integrated vue-router.
+- [x] Integrated vue-i18n.

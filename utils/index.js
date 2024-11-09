@@ -1,4 +1,4 @@
-function load(path) {
+export function load(path) {
   const options = {
     moduleCache: {
       vue: Vue,
